@@ -63,7 +63,7 @@ if __name__ == "__main__":
 
     try:
         # Read input from file and strip newline characters
-        with open("complex_input.txt", "r") as file:
+        with open("../../input/day1/part2/part2Input.txt", "r") as file:
             calibration_input = [line.strip() for line in file.readlines()]
 
         # Calculate the sum of all calibration values
