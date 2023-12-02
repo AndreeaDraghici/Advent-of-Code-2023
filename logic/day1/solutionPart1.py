@@ -14,7 +14,7 @@ def extract_calibration_values(lines):
 
 if __name__ == "__main__":
     try:
-        with open("../../input/day1/part1/part1Input.txt", "r") as file:
+        with open("../../input/day1/part1/input.txt", "r") as file:
             calibration_input = [line.strip() for line in file.readlines()]
 
         # Calculate the sum of all calibration values
