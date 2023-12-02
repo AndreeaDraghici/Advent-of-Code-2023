@@ -8,15 +8,15 @@ This project contains solutions to the challenges from **[Advent of Code]( https
 ## Project Structure
 
 - `input`: This directory contains input files for each day's challenge.
-   - Example: `[PROJECT_ROOT]/input/day2`
+   - Example: `[PROJECT_ROOT]/input/[dayX]`
 
 
 - `logic`: This directory contains Python scripts with solutions to the challenges.
-   - Example: `[PROJECT_ROOT]/logic/day2`
+   - Example: `[PROJECT_ROOT]/logic/[dayX]`
 
 
 - `challenges`: This directory contains requirements for each day's challenge.
-  - Example: `[PROJECT_ROOT]/logic/day2/challenges
+  - Example: `[PROJECT_ROOT]/logic/[dayX]/challenges
   
 ------
 ## How to Run
