@@ -16,7 +16,7 @@ This project contains solutions to the challenges from **[Advent of Code]( https
 
 
 - `challenges`: This directory contains requirements for each day's challenge.
-  - Example: `[PROJECT_ROOT]/logic/[dayX]/challenges`
+  - Example: `[PROJECT_ROOT]/challenges/[dayX]`
   
 ------
 ## How to Run
