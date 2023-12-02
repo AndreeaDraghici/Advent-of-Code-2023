@@ -16,7 +16,7 @@ This project contains solutions to the challenges from **[Advent of Code]( https
 
 
 - `challenges`: This directory contains requirements for each day's challenge.
-  - Example: `[PROJECT_ROOT]/logic/[dayX]/challenges
+  - Example: `[PROJECT_ROOT]/logic/[dayX]/challenges`
   
 ------
 ## How to Run
@@ -25,7 +25,7 @@ To run a specific day's solution:
 
 1. Navigate to the `logic` directory.
    ```bash
-   cd cd [PROJECT_ROOT]/logic
+   cd [PROJECT_ROOT]/logic
    python [SCRIPT_NAME].py
 
 -----
